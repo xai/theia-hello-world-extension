@@ -16,6 +16,7 @@
             ],
             "env": {
                 "NODE_ENV": "development",
+                "NODE_PRESERVE_SYMLINKS": "1"
             },
             "sourceMaps": true,
             "outFiles": [
